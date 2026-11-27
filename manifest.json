@@ -1,0 +1,11 @@
+[
+  {
+    "version": "1.0.0.0",
+    "revision": "1",
+    "changelog": "Initial release of MediaUpdates plugin.",
+    "targetAbi": "10.10.0.0",
+    "sourceUrl": "https://github.com/Fox-Empire/Jellyfin-Plugins/releases/download/Pre-Release/Test-Release.zip",
+    "checksum": "",
+    "timestamp": "2026-11-27"
+  }
+]

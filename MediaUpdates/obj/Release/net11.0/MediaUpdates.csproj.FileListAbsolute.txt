@@ -1,0 +1,14 @@
+C:\Users\Fione\Desktop\Jellyfin Plugins\MediaUpdates\obj\Release\net11.0\MediaUpdates.csproj.AssemblyReference.cache
+C:\Users\Fione\Desktop\Jellyfin Plugins\MediaUpdates\obj\Release\net11.0\MediaUpdates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fione\Desktop\Jellyfin Plugins\MediaUpdates\obj\Release\net11.0\MediaUpdates.AssemblyInfoInputs.cache
+C:\Users\Fione\Desktop\Jellyfin Plugins\MediaUpdates\obj\Release\net11.0\MediaUpdates.AssemblyInfo.cs
+C:\Users\Fione\Desktop\Jellyfin Plugins\MediaUpdates\obj\Release\net11.0\MediaUpdates.csproj.CoreCompileInputs.cache
+C:\Users\Fione\Desktop\Jellyfin Plugins\MediaUpdates\obj\Release\net11.0\MediaUpdates.sourcelink.json
+C:\Users\Fione\Desktop\Jellyfin Plugins\MediaUpdates\bin\Release\net11.0\MediaUpdates.deps.json
+C:\Users\Fione\Desktop\Jellyfin Plugins\MediaUpdates\bin\Release\net11.0\MediaUpdates.dll
+C:\Users\Fione\Desktop\Jellyfin Plugins\MediaUpdates\bin\Release\net11.0\MediaUpdates.pdb
+C:\Users\Fione\Desktop\Jellyfin Plugins\MediaUpdates\obj\Release\net11.0\MediaUpdates.dll
+C:\Users\Fione\Desktop\Jellyfin Plugins\MediaUpdates\obj\Release\net11.0\refint\MediaUpdates.dll
+C:\Users\Fione\Desktop\Jellyfin Plugins\MediaUpdates\obj\Release\net11.0\MediaUpdates.pdb
+C:\Users\Fione\Desktop\Jellyfin Plugins\MediaUpdates\obj\Release\net11.0\ref\MediaUpdates.dll
+C:\Users\Fione\Desktop\Jellyfin Plugins\MediaUpdates\obj\Release\net11.0\MediaUpd.6A7BC963.Up2Date

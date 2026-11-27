@@ -1,11 +1,20 @@
 [
   {
-    "version": "1.0.0.0",
-    "revision": "1",
-    "changelog": "Initial release of MediaUpdates plugin.",
-    "targetAbi": "10.10.0.0",
-    "sourceUrl": "https://github.com/Fox-Empire/Jellyfin-Plugins/releases/download/Pre-Release/Test-Release.zip",
-    "checksum": "",
-    "timestamp": "2026-11-27"
+    "guid": "1e26cfa3-39a5-4552-bc3b-43f3013a47ec",
+    "name": "Media Updates",
+    "overview": "A custom Jellyfin plugin for media updates.",
+    "description": "Extends Jellyfin to handle custom media updates and background tasks.",
+    "owner": "Fox-Empire",
+    "category": "General",
+    "versions": [
+      {
+        "version": "1.0.0.0",
+        "changelog": "https://github.com/Fox-Empire/MediaUpdates/releases/tag/v1.0.0",
+        "targetAbi": "12.4.0.0",
+        "sourceUrl": "https://github.com/Fox-Empire/MediaUpdates/releases/download/v1.0.0/MediaUpdates.zip",
+        "checksum": "D393D46BB65DB8491B8099194293DF81",
+        "timestamp": "2026-11-27T00:00:00Z"
+      }
+    ]
   }
 ]
